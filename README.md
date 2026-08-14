@@ -2,6 +2,11 @@
 
 This repository contains an end-to-end Machine Learning Engineering pipeline designed to predict credit default risk using the **Lending Club** dataset. The project bridges statistical learning theory with a modular, object-oriented software architecture.
 
+> 📐 **Mathematician's Perspective & Author's Note:** 
+> As a mathematics student/graduate, my structural coding experience is relatively new and adapting to enterprise software engineering is an ongoing learning curve. However, this project was architected with a strict focus on bridging rigorous **Statistical Learning Theory** and **Algorithmic Mathematics** (such as axis-parallel hyperplanes, entropy optimization, and variance reduction formulas) into functional production code. 
+> 
+> *The procedural implementation scripts inside the modules carry some artifacts of a bulit cloud environment (Google Colab/Drive trials), but the core emphasis remains on the foundational mathematics and the execution of 13 systematically tracked empirical experiments.*
+
 ---
 
 ## 📐 Theoretical & Mathematical Foundations
